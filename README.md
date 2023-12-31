@@ -3,8 +3,8 @@
 ### DATA SCIENCE TASKS:
 
 * TITANIC SURVIVAL PREDICTION
-SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
-TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data.
+  - SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
+  - TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data.
 
 * MOVIE RATING PREDICTION WITH PYTHON
 SOURCE: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
