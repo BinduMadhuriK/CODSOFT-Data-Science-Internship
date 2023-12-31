@@ -1,6 +1,9 @@
 # CODSOFT Data Science Internship
 
-Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving. Below are the tasks given by CODSOFT during this internship journey:
+Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving. 
+
+### INTRODUCTION:
+I am thrilled to share my journey during the Codsoft Data Science Internship, where I had the opportunity to work on any three of five exciting projects/tasks that delved into different aspects of data science. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work. Below are the tasks given by CODSOFT during this internship journey:
 
 ### DATA SCIENCE TASKS:
 
