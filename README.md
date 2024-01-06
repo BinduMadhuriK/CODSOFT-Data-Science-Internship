@@ -10,7 +10,7 @@ I am thrilled to share my journey during the CODSOFT Data Science Internship, wh
 * TASK 1: TITANIC SURVIVAL PREDICTION
   - SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
   - TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
-  - [TASK 1: Titanic Dataset Survival Prediction]
+  - [[Github Link](https://github.com/BinduMadhuriK/CODSOFT-Data-Science-Internship/tree/4a72db2722c4ce444a33e6a94ff53f3f77cc8b8e/TASK%201%3A%20Titanic%20Dataset%20Survival%20Prediction)]
 
 * TASK 2: MOVIE RATING PREDICTION WITH PYTHON
   - SOURCE: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
