@@ -15,6 +15,7 @@ I am thrilled to share my journey during the CODSOFT Data Science Internship, wh
 * **TASK 2: MOVIE RATING PREDICTION WITH PYTHON**
   - SOURCE: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
   - TASK: Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem. The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics. Movie Rating Prediction project enables you to explore data analysis, preprocessing, feature engineering, and machine learning modeling techniques. It provides insights into the factors that influence movie ratings and allows you to build a model that can estimate the ratings of movies accurately.
+  - [Github Link](https://github.com/BinduMadhuriK/CODSOFT-Data-Science-Internship/tree/7539ba155a55469765da2051a5eb9fe878f8f6b6/TASK%202%3A%20Movie%20Rating%20Prediction%20with%20Python)
 
 * **TASK 3: IRIS FLOWER CLASSIFICATION**
   - SOURCE: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
