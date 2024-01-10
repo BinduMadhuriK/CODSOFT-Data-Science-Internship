@@ -6,7 +6,7 @@
 - The primary goal of this multiclassification project is to develop a robust and accurate machine learning model capable of predicting the species type of an Iris flower based on its morphological features.
 - The purpose of this project is to employ the required machine learning techniques to improve our comprehension of the morphological variations present within the Iris species.
 - This information can be valuable for various stakeholders, including botanists, researchers, and horticulturists, as it enhances our ability to categorize and interpret the diversity present in Iris flowers.
-- 
+
 ## Project Details
 - Objective: IRIS Flower Classification using ML Models
 - Model Used: Logistic Regression, K-Nearest Neighbors (KNN) classification, Gaussian Naive Bayes classification, Support Vector Machine, Decision Tree, and Random Forest from Scikit-learn.
